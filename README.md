@@ -1,4 +1,4 @@
-# Phishing Awareness Training
+# 🔐 Phishing Awareness Training
 
 A cybersecurity awareness training project developed as part of the **CodeAlpha Cyber Security Internship – Task 2**.
 
@@ -6,7 +6,7 @@ A cybersecurity awareness training project developed as part of the **CodeAlpha 
 
 Phishing is a common social-engineering technique used by attackers to trick individuals into clicking malicious links, opening harmful attachments, visiting fake websites, or revealing sensitive information.
 
-This project provides a practical awareness-training presentation that helps users understand phishing attacks and recognize common warning signs.
+This project provides a practical awareness-training presentation designed to help users understand phishing attacks, recognize warning signs, and follow safer online practices.
 
 ## 🎯 Objectives
 
@@ -14,7 +14,7 @@ This project provides a practical awareness-training presentation that helps use
 * Learn how phishing attacks work.
 * Identify common phishing techniques.
 * Recognize suspicious emails, links, websites, SMS messages, and phone calls.
-* Learn safe practices for preventing phishing attacks.
+* Learn practical methods for preventing phishing attacks.
 * Understand what to do after interacting with a suspicious message.
 
 ## 📚 Topics Covered
@@ -57,7 +57,7 @@ CodeAlpha_PhishingAwareness/
 
 The complete training presentation is available here:
 
-**[Open Phishing Awareness Training](presentation/CodeAlpha_Task2_Phishing_Awareness_Training.pptx)**
+[**Open Phishing Awareness Training**](presentation/CodeAlpha_Task2_Phishing_Awareness_Training.pptx)
 
 ## 📸 Screenshots
 
@@ -96,5 +96,42 @@ The complete training presentation is available here:
 
 If you accidentally click a suspicious link:
 
-1. Stop interacting with the page.
-2. Do not enter any additional
+1. Stop interacting with the suspicious page.
+2. Do not enter any additional information.
+3. If you entered a password, change it immediately through the legitimate website or application.
+4. Enable or reset MFA where necessary.
+5. Contact your bank or payment provider immediately if financial information was exposed.
+6. Report the incident to the appropriate security team or organization.
+7. Monitor the affected account for suspicious activity.
+
+## 🧠 Learning Outcomes
+
+After completing this training, participants should be able to:
+
+* Explain what phishing is.
+* Recognize common phishing indicators.
+* Identify suspicious links and fake websites.
+* Respond safely to suspicious messages.
+* Apply basic cybersecurity practices to reduce phishing risk.
+
+## 🧰 Tools Used
+
+* Microsoft PowerPoint
+* Basic cybersecurity research
+* GitHub
+* Markdown
+
+## 👨‍💻 Internship Information
+
+**Program:** CodeAlpha Cyber Security Internship
+**Task:** Task 2 – Phishing Awareness Training
+
+## 📖 Additional Resources
+
+Additional awareness resources are available in:
+
+[**phishing-resources.md**](resources/phishing-resources.md)
+
+## 📄 Disclaimer
+
+This project is intended for **cybersecurity awareness and educational purposes**. The examples are designed to teach users how to identify and avoid phishing attacks.
